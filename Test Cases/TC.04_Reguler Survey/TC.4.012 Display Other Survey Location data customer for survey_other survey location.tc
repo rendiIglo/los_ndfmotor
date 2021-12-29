@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.4.012 Display Other Survey Location data customer for survey_other survey location</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c84b779a-9c69-45a2-9756-ccb5fcbc820b</testCaseGuid>
+</TestCaseEntity>
